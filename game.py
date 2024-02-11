@@ -8,6 +8,7 @@
 @file: game.py
 @date: 2021/3/4
 @desc: 五子棋环境
+经过Farbitrarily修改
 """
 
 import numpy as np
